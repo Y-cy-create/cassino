@@ -4,10 +4,12 @@
 ![image](https://user-images.githubusercontent.com/71545529/152302012-7531e86e-5879-418b-9af2-582c6fd17fac.png)
 
 #經過資料清洗以及建模後，隨機森林為準確度最高之分類演算法(準確度: 95.75%)。
+
 #個別演算法程式如下:(決策樹)decision_tree.py、(隨機森林)Randomforest.py、(KNN演算法)KNN.py、(羅吉斯回歸)logistic_reggression.py、(SVC支持向量分類)SVC.py
+
 #另外以power BI進行財務及資源配置之分析，以及利用相關係數矩陣(corr)對客戶消費行為進行分析:
 
-#Cassino、快開、棋盤、運動、電子，此為5種遊戲類別，客戶有A、B、C、D，4個平台作為遊戲場地。
+#Cassino、快開、棋盤、運動、電子，此為5種遊戲類別，客戶有A、B、C、D、E、F，6個平台作為遊戲場地。
 ![image](https://user-images.githubusercontent.com/71545529/152303838-ebb54b67-2945-4ce2-9fc6-9d4f50615ea6.png)
 ![image](https://user-images.githubusercontent.com/71545529/152304253-3d0372ff-d61c-493f-8763-67a936e35d1d.png)
 ![image](https://user-images.githubusercontent.com/71545529/152304350-2adb0468-d52a-4891-811f-41454bee96e0.png)
